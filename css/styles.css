@@ -113,12 +113,7 @@ color: #ffffff;
     letter-spacing: 0.06em;
     text-align: center;
     cursor: pointer;
-}
-.title-benefits {
-
-}
-.hide-title {
-    display: none;
+    text-transform: uppercase;
 }
 .text-title {
     font-family: inherit;
@@ -127,8 +122,8 @@ color: #ffffff;
     line-height: 1.2;
     align: left;
     letter spacing: 3%;
-    text-decoration: uppercase;
     color: #212121;
+    text-transform: uppercase;
     
 }
 .text {
