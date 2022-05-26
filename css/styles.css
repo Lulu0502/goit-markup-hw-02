@@ -100,7 +100,7 @@ color: #ffffff;
     line-height: 1.4;
     letter-spacing: 0.06em;
     text-align: center;
-    text-decoration: uppercase;
+    text-transform: uppercase;
     color: #ffffff;
 }
 .button-title {
@@ -113,7 +113,6 @@ color: #ffffff;
     letter-spacing: 0.06em;
     text-align: center;
     cursor: pointer;
-    text-transform: uppercase;
 }
 .text-title {
     font-family: inherit;
