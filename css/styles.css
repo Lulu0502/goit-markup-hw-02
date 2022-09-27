@@ -132,11 +132,10 @@
     font-style: Bold;
     font-size: 14px;
     line-height: 1.2;
-    align: left;
-    letter spacing: 3%;
+    text-align: left;
+    letter-spacing: 3%;
     color: #212121;
     text-transform: uppercase;
-
 }
 
 .text {
